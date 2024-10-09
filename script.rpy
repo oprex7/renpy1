@@ -36,7 +36,7 @@ menu:
 
      "Follow the path":
          $ drank_tea = True
-         "I start walking and enjoy the view."
+         "I started walking and enjoy the nice view."
 
      "Walk infront while flag is up":
          $ refuse_drink = True
