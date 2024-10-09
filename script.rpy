@@ -56,7 +56,7 @@ label after_menu:
 menu:
 
     "steal a gun.":
-        "you got shot dead, womp womp'"
+        "you got shot dead'"
         
     "Go right.":
         "You chose the wrong direction you got shot bcos u didnt see the flag"
